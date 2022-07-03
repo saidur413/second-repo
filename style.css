@@ -4,3 +4,11 @@ p{
 p{
     background-color: green;
 }
+h2{
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 600px;
+    text-align: center;
+    font-size: 2em;
+}
